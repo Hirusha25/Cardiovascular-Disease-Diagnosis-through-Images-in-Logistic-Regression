@@ -55,3 +55,5 @@ has done a family checkup.
 17. Heart Rate – The Rate of the Patients Heart.
 18. Ten Year CVD Target – The detections based on 1 and 0 (0 represents the patients who do not have the ten-year risk of CVD and 1 represents the patients who have a risk of ten-year CVD disease.)
 
+
+[PIHHC183, DEMRC183 & SANDC182 - CSG2341D (2.1 Project Implementation Report).pdf](https://github.com/Hirusha25/Cardiovascular-Disease-Diagnosis-through-Images-in-Logistic-Regression/files/7574029/PIHHC183.DEMRC183.SANDC182.-.CSG2341D.2.1.Project.Implementation.Report.pdf)
