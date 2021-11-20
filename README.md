@@ -57,3 +57,5 @@ has done a family checkup.
 
 
 [PIHHC183, DEMRC183 & SANDC182 - CSG2341D (2.1 Project Implementation Report).pdf](https://github.com/Hirusha25/Cardiovascular-Disease-Diagnosis-through-Images-in-Logistic-Regression/files/7574029/PIHHC183.DEMRC183.SANDC182.-.CSG2341D.2.1.Project.Implementation.Report.pdf)
+
+[PIHHC183, DEMRC183 & SANDC182 - CSG2341D (2.2 Project Implementation Presentation) 2.35.16 PM.pptx](https://github.com/Hirusha25/Cardiovascular-Disease-Diagnosis-through-Images-in-Logistic-Regression/files/7574032/PIHHC183.DEMRC183.SANDC182.-.CSG2341D.2.2.Project.Implementation.Presentation.2.35.16.PM.pptx)
